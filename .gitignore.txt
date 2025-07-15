@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.env
+.venv
+
+# Package installer files
+*.egg-info/
+pip-wheel-metadata/
+
+# Outros
+.DS_Store
